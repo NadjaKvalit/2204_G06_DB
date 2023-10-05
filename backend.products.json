@@ -1,0 +1,520 @@
+[{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb0"
+  },
+  "title": "Ekologisk Banan",
+  "category": "Frukt",
+  "price": 29,
+  "unit": "500 gram",
+  "quantity": 150,
+  "description": "Ekologiska bananer ifrån Ecuador.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/00000000094011_3.jpg",
+  "brand": "Chiquita"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb1"
+  },
+  "title": "Ekologiskt Äpple",
+  "category": "Frukt",
+  "price": 25,
+  "unit": "500 gram",
+  "quantity": 100,
+  "description": "Ekologiska äpplen från Sverige.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/apple-pink-lady-klass1-1.jpg",
+  "brand": "Svenska Bönder"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb2"
+  },
+  "title": "Tomat",
+  "category": "Grönsaker",
+  "price": 15,
+  "unit": "500 gram",
+  "quantity": 80,
+  "description": "Färska tomater från Spanien.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/tomater-klass1-1.jpg",
+  "brand": "Svenska Bönder"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb3"
+  },
+  "title": "Morot",
+  "category": "Grönsaker",
+  "price": 12,
+  "unit": "1000 gram",
+  "quantity": 90,
+  "description": "Morötter från lokala odlare.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/snacksmorotter-200g-klass1-1.jpg",
+  "brand": "Svenska Bönder"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb4"
+  },
+  "title": "Mjölk",
+  "category": "Mejeri",
+  "price": 10,
+  "unit": "1 liter",
+  "quantity": 120,
+  "description": "Färsk mjölk från svenska gårdar.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310865071804_3.jpg",
+  "brand": "Arla"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb5"
+  },
+  "title": "Bröd",
+  "category": "Bageri",
+  "price": 20,
+  "unit": "200 gram",
+  "quantity": 50,
+  "description": "Hembakat surdegsbröd.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07311071336244_4.jpg",
+  "brand": "Pågens"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb6"
+  },
+  "title": "Ost",
+  "category": "Mejeri",
+  "price": 40,
+  "unit": "750 gram",
+  "quantity": 60,
+  "description": "Hårdost från Norrland.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/02340415200007_d1l1.jpg",
+  "brand": "Arla"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb7"
+  },
+  "title": "Kyckling",
+  "category": "Kött",
+  "price": 70,
+  "unit": "1 kg",
+  "quantity": 45,
+  "description": "Färsk kyckling från frigående höns.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/kycklinglarfile-ca-925g-kronfagel-1.jpg",
+  "brand": "Kungsfågeln"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb8"
+  },
+  "title": "Lax",
+  "category": "Fisk",
+  "price": 90,
+  "unit": "500 g",
+  "quantity": 30,
+  "description": "Vildfångad lax från Norge.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07393750010287_c1n1.jpg",
+  "brand": "Salma"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bb9"
+  },
+  "title": "Spaghetti",
+  "category": "Skafferi",
+  "price": 15,
+  "unit": "1 kg",
+  "quantity": 110,
+  "description": "Italiensk spaghetti av durumvete.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/08076809569811_d1n1.jpg",
+  "brand": "Barilla"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bba"
+  },
+  "title": "Olivolja",
+  "category": "Skafferi",
+  "price": 50,
+  "unit": "500 ml",
+  "quantity": 75,
+  "description": "Extra jungfruolivolja.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/08005510001549_c1n1.jpeg.jpg",
+  "brand": "Monin"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bbb"
+  },
+  "title": "Potatis",
+  "category": "Grönsaker",
+  "price": 12,
+  "unit": "2 kg",
+  "quantity": 95,
+  "description": "Potatis från södra Sverige.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/potatis-delikatess-1kg-klass1-3.jpg",
+  "brand": "Svenska Bönder"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bbc"
+  },
+  "title": "Cashewnötter",
+  "category": "Skafferi",
+  "price": 80,
+  "unit": "50 gram",
+  "quantity": 65,
+  "description": "Blandade nötter av hög kvalitet.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07340083468445_c1n1.jpg",
+  "brand": "Garant"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bbd"
+  },
+  "title": "Kaffe",
+  "category": "Dryck",
+  "price": 70,
+  "unit": "500 g",
+  "quantity": 40,
+  "description": "Ekologiskt kaffe från Colombia.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310760012896_c1l1.jpg",
+  "brand": "Zoega"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bbe"
+  },
+  "title": "Te",
+  "category": "Dryck",
+  "price": 30,
+  "unit": "20 st",
+  "quantity": 55,
+  "description": "Svart te med bergamott.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/08712100679360_c1r1.jpeg.jpg",
+  "brand": "Earl Grey"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bbf"
+  },
+  "title": "Majs",
+  "category": "Grönsaker",
+  "price": 14,
+  "unit": "500 g",
+  "quantity": 35,
+  "description": "Söt majs för grillning.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07340083439513_c1n1.jpg",
+  "brand": "Svenska Bönder"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bc0"
+  },
+  "title": "Ramlösa Fläder & Lime",
+  "category": "Dryck",
+  "price": 5,
+  "unit": "150 cl",
+  "quantity": 300,
+  "description": "Renat källvatten.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310070001962_2.jpg",
+  "brand": "Ramlösa"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bc1"
+  },
+  "title": "Yoghurt Lättsockrad Vanilj 1,5%",
+  "category": "Mejeri",
+  "price": 32,
+  "unit": "1000 ml",
+  "quantity": 70,
+  "description": "Vaniljyoghurt.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/yoghurt-lattsockrad-vanilj-1-5--1500g-arla-ko.jpg",
+  "brand": "Arla"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bc2"
+  },
+  "title": "Kakao",
+  "category": "Skafferi",
+  "price": 25,
+  "unit": "500 g",
+  "quantity": 25,
+  "description": "Kakao för bakning och drycker.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/06416453062122_c1l1.jpg",
+  "brand": "Fazer"
+},
+{
+  "_id": {
+    "$oid": "6516c5cc877a159aa1b78bc3"
+  },
+  "title": "Fläskkarré",
+  "category": "Kött",
+  "price": 90,
+  "unit": "250 gram",
+  "quantity": 20,
+  "description": "Kött från lokala gårdar.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07300203184006_c1n1.jpg",
+  "brand": "Scan"
+},
+{
+  "_id": {
+    "$oid": "651aa145ee6d02151c2d417d"
+  },
+  "title": "Tortillas",
+  "category": "Skafferi",
+  "price": 19,
+  "unit": "320 g",
+  "quantity": 105,
+  "description": "Nygräddade tortillas perfekt för taco fredag.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07350115944090_1.jpg",
+  "brand": "El Taco Truck"
+},
+{
+  "_id": {
+    "$oid": "651aa516a3652c8bc6bb38ec"
+  },
+  "title": "Öl Mixbox Alkoholfri 8x33cl",
+  "category": "Dryck",
+  "price": 119,
+  "unit": "2 liter",
+  "quantity": 260,
+  "description": "En färdigblandad låda med 8st alkoholfria öl, två stycken Heineken, två stycken Mariestads, två stycken Ship full of IPA och slutligen två stycken Melleruds.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310403036975_5.jpg",
+  "brand": "Spendrups"
+},
+{
+  "_id": {
+    "$oid": "651aa74ca3652c8bc6bb38ee"
+  },
+  "title": "Chokladkaka Mjölkchoklad",
+  "category": "Godis",
+  "price": 26,
+  "unit": "145 g",
+  "quantity": 999,
+  "description": "Karl Fazer Mjölkchoklad är en klassisk chokladkaka som passar perfekt för alla tillfällen - fredagsmys med familjen eller om du ska ha middag med vänner. Vår choklad är gjord på färsk mjölk och 100% spårbar och ansvarsfullt producerad kakao. Ät och njut!",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/06416453015456_c1n1.jpeg.jpg",
+  "brand": "Fazer"
+},
+{
+  "_id": {
+    "$oid": "651bea195d1642eb41a3b64e"
+  },
+  "brand": "LOTUS",
+  "category": "Hushåll",
+  "description": "Lotus Classic är ett mjukt och starkt 3-lags toalettpapper, som har en perfekt balans mellan styrka och mjukhet. Med Lotus Classic behöver du inte kompromissa mjukhet med tillförlitlighet. Lotus Classic är Svanenmärkt, producerat av FSC-certifierad fiber och har en återvinningsbar förpackning.\r\n• 3-lags toalettpapper\r\n• Svanenmärkt\r\n• Producerat av FSC-certifierad fiber\r\n• Återvinnningsbar förpackning.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07322541488479_4.jpg",
+  "price": 97,
+  "quantity": 156,
+  "title": "Toalettpapper Classic 18-p",
+  "unit": "1560 g"
+},
+{
+  "_id": {
+    "$oid": "651bf45f13d51d43060b139c"
+  },
+  "brand": "Gotländsk kött",
+  "category": "Kött",
+  "description": "Nötfärs med låg fetthalt, endast 12%.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/02313115000000_3.jpg",
+  "price": 90,
+  "quantity": 50,
+  "title": "Nötfärs",
+  "unit": "1000g"
+},
+{
+  "_id": {
+    "$oid": "651d2d7772b18b53faa62fed"
+  },
+  "brand": "M&Ms",
+  "category": "Skafferi",
+  "description": "Mjölkchoklad med ett krispigt sockerskal.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/05000159471411_c1n1.jpg",
+  "price": 35,
+  "quantity": 100,
+  "title": "M&M's Jordnöt",
+  "unit": "165 g"
+},
+{
+  "_id": {
+    "$oid": "651d2e4d72b18b53faa62fee"
+  },
+  "brand": "Svenskt ursprung",
+  "category": "Grönsaker",
+  "description": "Gurka äts ofta rå som del av en sallad eller kan skäras i tunna stavar och serveras som tilltugg. En uppfriskande dryck får du enkelt genom att skiva gurka tunt och låta den dra en stund i iskallt vatten tillsammans med citron och mynta.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/gurka-klass1-4.jpg",
+  "price": 20,
+  "quantity": 20,
+  "title": "Gurka ",
+  "unit": "325 g"
+},
+{
+  "_id": {
+    "$oid": "651d2e7072b18b53faa62fef"
+  },
+  "brand": "Laxfilé ",
+  "category": "Fisk",
+  "description": "Odlad i de norska fjordarnas klara och friska vatten.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/laxfile-fryst-500g-feldt-s-7.jpg",
+  "price": 99,
+  "quantity": 10,
+  "title": "Laxfilé Fryst",
+  "unit": "500 g"
+},
+{
+  "_id": {
+    "$oid": "651d2ecf72b18b53faa62ff0"
+  },
+  "brand": "Findus",
+  "category": "Bageri",
+  "description": "Svenska KANELBULLAR för en godare fika! Det finns alltid en doft av nybakade bullar i havsbrisen i Loftahammar. I det småländska skärgårdssamhället, precis vid den lilla viken, ligger Findus Bageri. Här har det knådats deg och gräddats bullar av glada bagare sedan 1966. Våra klassiska kanelbullar och saftiga kardemummabullar är bakade i Sverige med ingredienser som uppfyller kriterierna för ”Från Sverige-märkning”. Så nu kan du välja närproducerat när du blir sugen på något sött och svenskt. Bullarna tinas på bara några minuter i ugn eller mikro, eller i en timme i rumstemperatur. Aldrig har det varit enklare att känna doften och smaken av nybakat! Psst! Ta med dem i picknickkorgen, låt tina på vägen, så har du nybakade bullar till utflykten.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310500176802_c1n1.jpeg.jpg",
+  "price": 42,
+  "quantity": 50,
+  "title": "Svenska Kanelbullar Frysta 12-p",
+  "unit": "420 g"
+},
+{
+  "_id": {
+    "$oid": "651d2f9172b18b53faa62ff1"
+  },
+  "brand": "Portugal",
+  "category": "Frukt",
+  "description": "Bra att veta\r\n\r\nObs, förändringar i produkternas innehåll kan ske. Kontrollera därför alltid produktinformationen på förpackningen. Vid frågor om ej färdigförpackade livsmedels innehåll kontakta Kundtjänst.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/hallon-125g-klass1-2.jpg",
+  "price": 45,
+  "quantity": 100,
+  "title": "Hallon Klass1",
+  "unit": "125 g"
+},
+{
+  "_id": {
+    "$oid": "651d308972b18b53faa62ff2"
+  },
+  "brand": "Kött från Sverige",
+  "category": "Kött",
+  "description": "Skivat innanlår av KRAV-nöt i atmostråg.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/lovbiff-krav-ca-500g-vart-ekologiska.jpg",
+  "price": 140,
+  "quantity": 10,
+  "title": "Lövbiff KRAV",
+  "unit": "500 g"
+},
+{
+  "_id": {
+    "$oid": "651d308b72b18b53faa62ff3"
+  },
+  "brand": "Pfanner",
+  "category": "Dryck",
+  "description": "Pfanner iste med smak av citron och lime, en syrlig och svalkande dryck gjord av naturliga ingredienser.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/09006900011512_c1l1.jpg",
+  "price": -10,
+  "quantity": 190,
+  "title": "Iste Citron & Lime 2L",
+  "unit": "2000 ml"
+},
+{
+  "_id": {
+    "$oid": "651d30b872b18b53faa62ff4"
+  },
+  "brand": "Arla Köket",
+  "category": "Mejeri",
+  "description": "Innehållsförteckning\r\n\r\nPastöriserad GRÄDDE, vatten, PARMESANOST (PARMIGIANO REGGIANO) 2%, citronjuice, OSTPULVER 1%, citronskal, salt, modifierad stärkelse, majsstärkelse, vitlök, stabiliseringsmedel (fruktkärnmjöl, pektin), jästextrakt, svartpeppar, chilipulver, syrningskultur.\r\n\r\nBra att veta\r\n\r\nObs, förändringar i produkternas innehåll kan ske. Kontrollera därför alltid produktinformationen på förpackningen. Vid frågor om ej färdigförpackade livsmedels innehåll kontakta Kundtjänst.\r\n\r\nNäringsinnehåll\r\n\r\nPer 100 g:\r\nEnergi 600 kJ/140 kcal\r\nFett 12 g\r\n- Varav mättat fett 7.7 g\r\nKolhydrat 4.9 g\r\n- Varav sockerarter 3.7 g\r\nProtein 3.6 g\r\nSalt 0.9 g\r\n\r\nFörvaring\r\n\r\nMin 2 °C, Max 8 °C.\r\n",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310865072771_c1l1.jpg",
+  "price": 19,
+  "quantity": 70,
+  "title": "Crème Fraiche Lätt Parmesan & Vitlök 12%",
+  "unit": "2 dl"
+},
+{
+  "_id": {
+    "$oid": "651d314772b18b53faa62ff5"
+  },
+  "brand": "Chapel Hill",
+  "category": "Dryck",
+  "description": "Avalkoholiserat vin från EU (87%), druvjuice, socker, kolsyra, konserveringsmedel: kalium sorbat, SVAVELDIOXID.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/04003310016767_G1N1.jpeg",
+  "price": 466,
+  "quantity": -6,
+  "title": "Chardonay Alkoholfri",
+  "unit": "75 cl"
+},
+{
+  "_id": {
+    "$oid": "651d316172b18b53faa62ff6"
+  },
+  "brand": "MSC",
+  "category": "Fisk",
+  "description": "Fyra spröda bitar av torskfilé. Torsken är fångad med krok och lina och kommer från ett fiske som har blivit certifierat enligt MSC:s miljökrav för ett välskött och uthålligt fiske. Torskfilén är tillagad och stekt i 100 % rapsolja.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07340083401183_c1l1.jpg",
+  "price": -42,
+  "quantity": -23,
+  "title": "Sprödbakad Torskfilé MSC Fryst",
+  "unit": "360 g"
+},
+{
+  "_id": {
+    "$oid": "651d31d472b18b53faa62ff7"
+  },
+  "brand": "TPA",
+  "category": "Dryck",
+  "description": "Äpplejuice från Bravo. Vad minner mer om svensk sommar än smaken av nyplockade äpplen? Den friska syrligheten gör denna äpplejuice till en perfekt törstsläckare och måltidsdryck – årets alla dagar.\r\n",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310867561013_c1l1.jpeg.jpg",
+  "price": -20,
+  "quantity": -42,
+  "title": "Juice Äpple",
+  "unit": "325 g"
+},
+{
+  "_id": {
+    "$oid": "651d32c172b18b53faa62ff8"
+  },
+  "brand": "",
+  "category": "Grönsaker",
+  "description": "Sojabönor Gröna Frysta\r\n",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07311041065075_c1l1.jpg",
+  "price": 25,
+  "quantity": 12,
+  "title": "Sojabönor Gröna Frysta",
+  "unit": "'250 g"
+},
+{
+  "_id": {
+    "$oid": "651d5f70154657678f7b4644"
+  },
+  "brand": "Godmorgon",
+  "category": "Dryck",
+  "description": "En ofiltrerad äppeljuice, vilket ger en fyllig, smakrik juice med äkta äppelsmak. Perfekt till frukost eller som en törstsläckare under dagen.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/juice-apple-1l-god-morgon-115.jpg",
+  "price": 29.5,
+  "quantity": 34,
+  "title": "Juice Äpple",
+  "unit": "1L"
+},
+{
+  "_id": {
+    "$oid": "651d7e2d8567d8c54e97d4cd"
+  },
+  "brand": "Sverige",
+  "category": "Grönsaker",
+  "description": "Bra att veta\r\n\r\nObs, förändringar i produkternas innehåll kan ske. Kontrollera därför alltid produktinformationen på förpackningen. Vid frågor om ej färdigförpackade livsmedels innehåll kontakta Kundtjänst.\r\n",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/kantareller-200g-klass1-1.jpg",
+  "price": 68.95,
+  "quantity": 50,
+  "title": "Kantareller",
+  "unit": "150 g"
+},
+{
+  "_id": {
+    "$oid": "651ea16f3a345380d1c7d183"
+  },
+  "brand": "Active Care",
+  "category": "Apotek",
+  "description": "Active Care Vitaminbjörnar ger ett allsidigt komplement av vitaminer till den dagliga kosten för både vuxna och barn. D-vitamin med smak av jordgubb. Vitaminbjörnar gör det enklare att ta vitaminer dagligen, både för att du inte glömmer att ta dem och för att de smakar gott.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07070866031084_c1n1.jpg",
+  "price": 81.95,
+  "quantity": 1223,
+  "title": "Vitaminbjörnar D-Vitamin Jordgubbssmak 60-p",
+  "unit": "60 st"
+}]
