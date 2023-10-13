@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6521188506bd27d17a18e188"
+  },
+  "name": "Dryck"
+},
+{
+  "_id": {
+    "$oid": "652118d706bd27d17a18e189"
+  },
+  "name": "Kött"
+},
+{
+  "_id": {
+    "$oid": "6521191506bd27d17a18e18b"
+  },
+  "name": "Mejeri"
+},
+{
+  "_id": {
+    "$oid": "6521193206bd27d17a18e18d"
+  },
+  "name": "Frukt"
+},
+{
+  "_id": {
+    "$oid": "6521194706bd27d17a18e18e"
+  },
+  "name": "Grönsaker"
+},
+{
+  "_id": {
+    "$oid": "6521194f06bd27d17a18e18f"
+  },
+  "name": "Bageri"
+},
+{
+  "_id": {
+    "$oid": "6521195706bd27d17a18e190"
+  },
+  "name": "Fisk"
+},
+{
+  "_id": {
+    "$oid": "6521196106bd27d17a18e191"
+  },
+  "name": "Skafferi"
+},
+{
+  "_id": {
+    "$oid": "6521196c06bd27d17a18e192"
+  },
+  "name": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "6521197a06bd27d17a18e193"
+  },
+  "name": "Apotek"
+},
+{
+  "_id": {
+    "$oid": "6521198406bd27d17a18e194"
+  },
+  "name": "Husdjur"
+}]

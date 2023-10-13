@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "6516c5cc877a159aa1b78bb0"
   },
-  "title": "Ekologisk Banan",
+  "title": "Ekologiska Bananer",
   "category": "Frukt",
   "price": 29,
   "unit": "500 gram",
@@ -409,7 +409,7 @@
   "category": "Dryck",
   "description": "Pfanner iste med smak av citron och lime, en syrlig och svalkande dryck gjord av naturliga ingredienser.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/09006900011512_c1l1.jpg",
-  "price": -10,
+  "price": 10,
   "quantity": 190,
   "title": "Iste Citron & Lime 2L",
   "unit": "2000 ml"
@@ -436,7 +436,7 @@
   "description": "Avalkoholiserat vin från EU (87%), druvjuice, socker, kolsyra, konserveringsmedel: kalium sorbat, SVAVELDIOXID.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/04003310016767_G1N1.jpeg",
   "price": 466,
-  "quantity": -6,
+  "quantity": 6,
   "title": "Chardonay Alkoholfri",
   "unit": "75 cl"
 },
@@ -448,8 +448,8 @@
   "category": "Fisk",
   "description": "Fyra spröda bitar av torskfilé. Torsken är fångad med krok och lina och kommer från ett fiske som har blivit certifierat enligt MSC:s miljökrav för ett välskött och uthålligt fiske. Torskfilén är tillagad och stekt i 100 % rapsolja.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07340083401183_c1l1.jpg",
-  "price": -42,
-  "quantity": -23,
+  "price": 42,
+  "quantity": 23,
   "title": "Sprödbakad Torskfilé MSC Fryst",
   "unit": "360 g"
 },
@@ -461,8 +461,8 @@
   "category": "Dryck",
   "description": "Äpplejuice från Bravo. Vad minner mer om svensk sommar än smaken av nyplockade äpplen? Den friska syrligheten gör denna äpplejuice till en perfekt törstsläckare och måltidsdryck – årets alla dagar.\r\n",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07310867561013_c1l1.jpeg.jpg",
-  "price": -20,
-  "quantity": -42,
+  "price": 20,
+  "quantity": 42,
   "title": "Juice Äpple",
   "unit": "325 g"
 },
@@ -517,4 +517,69 @@
   "quantity": 1223,
   "title": "Vitaminbjörnar D-Vitamin Jordgubbssmak 60-p",
   "unit": "60 st"
+},
+{
+  "_id": {
+    "$oid": "651ff413ddaf98f16ece14ae"
+  },
+  "brand": "Svenskt ursprung",
+  "category": "Kött",
+  "description": "Felix Delikatessköttbullar i familjepack är fina små köttbullar gjorda av kött från svenska gårdar, tillagade med omsorg i Skåne. Köttbullarna är smakrika och stekta i fin rapsolja, och är en svensk klassiker! Servera bullarna med potatismos eller makaroner – om du vill ha en grönare middag kan du testa Felix Vegetariska delikatessbullar, precis lika goda som originalet! För att läsa mer om Felix produkter besök felix.se",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310240039511_c1n1.jpeg.jpg",
+  "price": 73,
+  "quantity": 50,
+  "title": "Små Delikatessköttbullar Fryst",
+  "unit": "600 g"
+},
+{
+  "_id": {
+    "$oid": "651ff4c0ddaf98f16ece14af"
+  },
+  "brand": "",
+  "category": "Frukt",
+  "description": "Vindruvor gröna i ask Klass 1. Sort: Thomsson seedless Gröna vindruvor har oftast en ljusgrön färg och är väldigt saftiga, ibland även lite krispiga. De ger en söt och frisk smak. Vindruvor är en av världens mest odlade frukter. Dessa druvor är kärnfria",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/vindruvor-grona-i-ask-500g-klass1-5.jpg",
+  "price": 44.95,
+  "quantity": 10,
+  "title": "Vindruvor Gröna i Ask Klass1",
+  "unit": "500 g"
+},
+{
+  "_id": {
+    "$oid": "6527db33ff3f0750e14e1f02"
+  },
+  "brand": "Hugo&Celin",
+  "category": "Husdjur",
+  "description": "Djuprengörande hundschampo från Hugo & Celine. Ett vårdande schampo med mild doft, passar hundar med både kort och lång päls.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07350092070690_c1n1.jpg",
+  "price": 115,
+  "quantity": 200,
+  "title": "Hundschampo",
+  "unit": "300 ml"
+},
+{
+  "_id": {
+    "$oid": "6527dc96c401926cd1342d39"
+  },
+  "brand": "Gourmet",
+  "category": "Husdjur",
+  "description": "Komplett helfoder för vuxna katter. Mjuk mousse med smak av kött eller fisk, en omsorgsfullt tillredd smakupplevelse som smälter i munnen.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07613032395377_c1l1.jpg",
+  "price": 99.95,
+  "quantity": 1000,
+  "title": "Gold Mousse 12x85g",
+  "unit": "1020 g"
+},
+{
+  "_id": {
+    "$oid": "6527dea35db8b45250c220d0"
+  },
+  "brand": "Corny",
+  "category": "Fitness",
+  "description": "Corny Müslibar är ett nyttigare mellanmålsalternativ i barformat, lätt att ta med sig på utflykten. Perfekt före, under och efter träningspasset. Lätt att stoppa i fickan och ha med sig under fritidsaktiviteterna.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/04011800420215_c1l1.jpg",
+  "price": 32.95,
+  "quantity": 2500,
+  "title": "Müslibars Chocolate 6x25g",
+  "unit": "150 g"
 }]
