@@ -63,4 +63,40 @@
     "$oid": "6521198406bd27d17a18e194"
   },
   "name": "Husdjur"
+},
+{
+  "_id": {
+    "$oid": "652fd0174d16a58d9a9b8ba3"
+  },
+  "name": "Katt"
+},
+{
+  "_id": {
+    "$oid": "652fd01e4d16a58d9a9b8ba4"
+  },
+  "name": "Frukt och grönt"
+},
+{
+  "_id": {
+    "$oid": "652fd03b4d16a58d9a9b8ba5"
+  },
+  "name": "New"
+},
+{
+  "_id": {
+    "$oid": "652fd0a24d16a58d9a9b8ba6"
+  },
+  "name": "New2"
+},
+{
+  "_id": {
+    "$oid": "652fd0b04d16a58d9a9b8ba7"
+  },
+  "name": "Godis"
+},
+{
+  "_id": {
+    "$oid": "652fd0cc4d16a58d9a9b8ba8"
+  },
+  "name": "Glass"
 }]

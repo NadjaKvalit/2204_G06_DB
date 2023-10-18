@@ -1,53 +1,14 @@
 [{
   "_id": {
-    "$oid": "6516c5cc877a159aa1b78bb0"
-  },
-  "title": "Ekologiska Bananer",
-  "category": "Frukt",
-  "price": 29,
-  "unit": "500 gram",
-  "quantity": 150,
-  "description": "Ekologiska bananer ifrån Ecuador.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/00000000094011_3.jpg",
-  "brand": "Chiquita"
-},
-{
-  "_id": {
-    "$oid": "6516c5cc877a159aa1b78bb1"
-  },
-  "title": "Ekologiskt Äpple",
-  "category": "Frukt",
-  "price": 25,
-  "unit": "500 gram",
-  "quantity": 100,
-  "description": "Ekologiska äpplen från Sverige.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/apple-pink-lady-klass1-1.jpg",
-  "brand": "Svenska Bönder"
-},
-{
-  "_id": {
-    "$oid": "6516c5cc877a159aa1b78bb2"
-  },
-  "title": "Tomat",
-  "category": "Grönsaker",
-  "price": 15,
-  "unit": "500 gram",
-  "quantity": 80,
-  "description": "Färska tomater från Spanien.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/tomater-klass1-1.jpg",
-  "brand": "Svenska Bönder"
-},
-{
-  "_id": {
     "$oid": "6516c5cc877a159aa1b78bb3"
   },
   "title": "Morot",
   "category": "Grönsaker",
-  "price": 12,
+  "price": 1,
   "unit": "1000 gram",
-  "quantity": 90,
+  "quantity": 33,
   "description": "Morötter från lokala odlare.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/snacksmorotter-200g-klass1-1.jpg",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310500177298_c1n1.jpg",
   "brand": "Svenska Bönder"
 },
 {
@@ -58,7 +19,9 @@
   "category": "Mejeri",
   "price": 10,
   "unit": "1 liter",
-  "quantity": 120,
+  "quantity": {
+    "$numberLong": "120000000000000"
+  },
   "description": "Färsk mjölk från svenska gårdar.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07310865071804_3.jpg",
   "brand": "Arla"
@@ -75,19 +38,6 @@
   "description": "Hembakat surdegsbröd.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07311071336244_4.jpg",
   "brand": "Pågens"
-},
-{
-  "_id": {
-    "$oid": "6516c5cc877a159aa1b78bb6"
-  },
-  "title": "Ost",
-  "category": "Mejeri",
-  "price": 40,
-  "unit": "750 gram",
-  "quantity": 60,
-  "description": "Hårdost från Norrland.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/02340415200007_d1l1.jpg",
-  "brand": "Arla"
 },
 {
   "_id": {
@@ -114,19 +64,6 @@
   "description": "Vildfångad lax från Norge.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07393750010287_c1n1.jpg",
   "brand": "Salma"
-},
-{
-  "_id": {
-    "$oid": "6516c5cc877a159aa1b78bb9"
-  },
-  "title": "Spaghetti",
-  "category": "Skafferi",
-  "price": 15,
-  "unit": "1 kg",
-  "quantity": 110,
-  "description": "Italiensk spaghetti av durumvete.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/08076809569811_d1n1.jpg",
-  "brand": "Barilla"
 },
 {
   "_id": {
@@ -214,23 +151,10 @@
   "category": "Dryck",
   "price": 5,
   "unit": "150 cl",
-  "quantity": 300,
+  "quantity": 255,
   "description": "Renat källvatten.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07310070001962_2.jpg",
   "brand": "Ramlösa"
-},
-{
-  "_id": {
-    "$oid": "6516c5cc877a159aa1b78bc1"
-  },
-  "title": "Yoghurt Lättsockrad Vanilj 1,5%",
-  "category": "Mejeri",
-  "price": 32,
-  "unit": "1000 ml",
-  "quantity": 70,
-  "description": "Vaniljyoghurt.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/yoghurt-lattsockrad-vanilj-1-5--1500g-arla-ko.jpg",
-  "brand": "Arla"
 },
 {
   "_id": {
@@ -238,9 +162,9 @@
   },
   "title": "Kakao",
   "category": "Skafferi",
-  "price": 25,
+  "price": 20,
   "unit": "500 g",
-  "quantity": 25,
+  "quantity": 20,
   "description": "Kakao för bakning och drycker.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/06416453062122_c1l1.jpg",
   "brand": "Fazer"
@@ -286,32 +210,6 @@
 },
 {
   "_id": {
-    "$oid": "651aa74ca3652c8bc6bb38ee"
-  },
-  "title": "Chokladkaka Mjölkchoklad",
-  "category": "Godis",
-  "price": 26,
-  "unit": "145 g",
-  "quantity": 999,
-  "description": "Karl Fazer Mjölkchoklad är en klassisk chokladkaka som passar perfekt för alla tillfällen - fredagsmys med familjen eller om du ska ha middag med vänner. Vår choklad är gjord på färsk mjölk och 100% spårbar och ansvarsfullt producerad kakao. Ät och njut!",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/06416453015456_c1n1.jpeg.jpg",
-  "brand": "Fazer"
-},
-{
-  "_id": {
-    "$oid": "651bea195d1642eb41a3b64e"
-  },
-  "brand": "LOTUS",
-  "category": "Hushåll",
-  "description": "Lotus Classic är ett mjukt och starkt 3-lags toalettpapper, som har en perfekt balans mellan styrka och mjukhet. Med Lotus Classic behöver du inte kompromissa mjukhet med tillförlitlighet. Lotus Classic är Svanenmärkt, producerat av FSC-certifierad fiber och har en återvinningsbar förpackning.\r\n• 3-lags toalettpapper\r\n• Svanenmärkt\r\n• Producerat av FSC-certifierad fiber\r\n• Återvinnningsbar förpackning.",
-  "imageUrl": "https://static.mathem.se/shared/images/products/large/07322541488479_4.jpg",
-  "price": 97,
-  "quantity": 156,
-  "title": "Toalettpapper Classic 18-p",
-  "unit": "1560 g"
-},
-{
-  "_id": {
     "$oid": "651bf45f13d51d43060b139c"
   },
   "brand": "Gotländsk kött",
@@ -319,7 +217,7 @@
   "description": "Nötfärs med låg fetthalt, endast 12%.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/02313115000000_3.jpg",
   "price": 90,
-  "quantity": 50,
+  "quantity": 291,
   "title": "Nötfärs",
   "unit": "1000g"
 },
@@ -420,9 +318,9 @@
   },
   "brand": "Arla Köket",
   "category": "Mejeri",
-  "description": "Innehållsförteckning\r\n\r\nPastöriserad GRÄDDE, vatten, PARMESANOST (PARMIGIANO REGGIANO) 2%, citronjuice, OSTPULVER 1%, citronskal, salt, modifierad stärkelse, majsstärkelse, vitlök, stabiliseringsmedel (fruktkärnmjöl, pektin), jästextrakt, svartpeppar, chilipulver, syrningskultur.\r\n\r\nBra att veta\r\n\r\nObs, förändringar i produkternas innehåll kan ske. Kontrollera därför alltid produktinformationen på förpackningen. Vid frågor om ej färdigförpackade livsmedels innehåll kontakta Kundtjänst.\r\n\r\nNäringsinnehåll\r\n\r\nPer 100 g:\r\nEnergi 600 kJ/140 kcal\r\nFett 12 g\r\n- Varav mättat fett 7.7 g\r\nKolhydrat 4.9 g\r\n- Varav sockerarter 3.7 g\r\nProtein 3.6 g\r\nSalt 0.9 g\r\n\r\nFörvaring\r\n\r\nMin 2 °C, Max 8 °C.\r\n",
+  "description": "InnehållsförteckningPastöriserad GRÄDDE, vatten, PARMESANOST (PARMIGIANO REGGIANO) 2%, citronjuice, OSTPULVER 1%, citronskal, salt, modifierad stärkelse, majsstärkelse, vitlök, stabiliseringsmedel (fruktkärnmjöl, pektin), jästextrakt, svartpeppar, chilipulver, syrningskultur.Bra att vetaObs, förändringar i produkternas innehåll kan ske. Kontrollera därför alltid produktinformationen på förpackningen. Vid frågor om ej färdigförpackade livsmedels innehåll kontakta Kundtjänst.NäringsinnehållPer 100 g:Energi 600 kJ/140 kcalFett 12 g- Varav mättat fett 7.7 gKolhydrat 4.9 g- .",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07310865072771_c1l1.jpg",
-  "price": 19,
+  "price": 22,
   "quantity": 70,
   "title": "Crème Fraiche Lätt Parmesan & Vitlök 12%",
   "unit": "2 dl"
@@ -552,7 +450,7 @@
   "category": "Husdjur",
   "description": "Djuprengörande hundschampo från Hugo & Celine. Ett vårdande schampo med mild doft, passar hundar med både kort och lång päls.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07350092070690_c1n1.jpg",
-  "price": 115,
+  "price": 100,
   "quantity": 200,
   "title": "Hundschampo",
   "unit": "300 ml"
@@ -565,7 +463,7 @@
   "category": "Husdjur",
   "description": "Komplett helfoder för vuxna katter. Mjuk mousse med smak av kött eller fisk, en omsorgsfullt tillredd smakupplevelse som smälter i munnen.",
   "imageUrl": "https://static.mathem.se/shared/images/products/large/07613032395377_c1l1.jpg",
-  "price": 99.95,
+  "price": 99.85,
   "quantity": 1000,
   "title": "Gold Mousse 12x85g",
   "unit": "1020 g"
@@ -582,4 +480,316 @@
   "quantity": 2500,
   "title": "Müslibars Chocolate 6x25g",
   "unit": "150 g"
+},
+{
+  "_id": {
+    "$oid": "652dc1ad8b212159380e12e5"
+  },
+  "brand": "",
+  "category": "Grönsaker",
+  "description": "Broccoli Klass 1. Broccoli har en mycket mild kålsmak. Broccoli påminner i uppbyggnad om blomkål. I Sverige har broccoli funnits sedan 1950-talet, men det är först de senaste åren den blivit populär. Broccoli används som kokt tillbehör, i soppor, gratinerad, stuvad och rå i sallader.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/broccoli-250g-klass1-1.jpg",
+  "price": 33,
+  "quantity": 200,
+  "title": "Broccoli",
+  "unit": "22"
+},
+{
+  "_id": {
+    "$oid": "652e3447cdb4721b92156ca3"
+  },
+  "brand": "",
+  "category": "Mejeri",
+  "description": "Zeta Halloumi är handgjord och smaksatt med mynta enligt klassiskt cypriotiskt recept. Perfekt att steka eller grilla till sallad, smörgås eller på buffén.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07350002403846_c1n1.jpg",
+  "price": 25.25,
+  "quantity": 60,
+  "title": "Halloumi",
+  "unit": "150 g"
+},
+{
+  "_id": {
+    "$oid": "652e34b1cdb4721b92156ca4"
+  },
+  "brand": "Balerina",
+  "category": "Skafferi",
+  "description": "Ballerina är Sveriges mest älskade kaka och Göteborgs Kex populäraste varumärke. Det runda originalet har funnits sedan 1963. Oemotståndliga kakor med spröda kex och len nougatkräm. Nu med 25% mer fyllning för ännu godare smak. Givna kakor till fikat, kalaset eller utflykten! Ballerinas produkter är bakade utan palmolja.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/ballerina-original-205g-goteborg.jpg",
+  "price": 23.95,
+  "quantity": 200,
+  "title": "Ballerina Original",
+  "unit": "200 g"
+},
+{
+  "_id": {
+    "$oid": "652e34c4cdb4721b92156ca5"
+  },
+  "brand": "Kött från Sverige",
+  "category": "Kött",
+  "description": "Med Smak av Gotland får du ett extra fint och smakrikt kött från djur som fötts upp på öns ört- och kalkrika marker. Det milda gotländska klimatet med flest soltimmar i Sverige och en prunkande flora ger unika förutsättningar för djuruppfödning och ett kött av högsta kvalitet.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/02313112500008_c1l1.jpg",
+  "price": 120,
+  "quantity": 20,
+  "title": "Högrev Svensk",
+  "unit": "900 g"
+},
+{
+  "_id": {
+    "$oid": "652e34dccdb4721b92156ca6"
+  },
+  "brand": "Pågen",
+  "category": "Bageri",
+  "description": "Skärgårdskaka Hönö från Pågen. För dig som älskar mjuka, saftiga vetekakor som är gräddade härligt gyllene. Bakade efter ett recept som är inspirerat av vår klassiska Hönökaka som ursprungligen kommer från Hönö i Bohusläns skärgård. Skärgårdskaka är bröd att njuta av. Bara så gott.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07311070337297_d1l1.jpg",
+  "price": 0,
+  "quantity": 100,
+  "title": "Skärgårdskaka Hönö",
+  "unit": "750 g"
+},
+{
+  "_id": {
+    "$oid": "652e34dfcdb4721b92156ca7"
+  },
+  "brand": "",
+  "category": "Skafferi",
+  "description": "Mjölkchoklad med ett krispigt sockerskal.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07340005406661_c1n1.jpg",
+  "price": 26.95,
+  "quantity": 20,
+  "title": "Choco Pop Choklad",
+  "unit": "80 g"
+},
+{
+  "_id": {
+    "$oid": "652e35eecdb4721b92156ca9"
+  },
+  "brand": "Smart pets",
+  "category": "Husdjur",
+  "description": "Fågelmat från Bolgarien",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07311043004850_c1l1.jpg",
+  "price": 99.95,
+  "quantity": 100,
+  "title": "Fågelmat Talgboll 30x90g Smart",
+  "unit": "2875 g"
+},
+{
+  "_id": {
+    "$oid": "652e35efcdb4721b92156caa"
+  },
+  "brand": "",
+  "category": "Frukt",
+  "description": "Svenska äpplen i påse\nSorten kan variera under säsongen Sort: Discovery, Alice",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/svenska-applen-pase-1kg-klass1.jpg",
+  "price": 6.6,
+  "quantity": 333,
+  "title": "Äpple Sverige Klass1",
+  "unit": "1 kg"
+},
+{
+  "_id": {
+    "$oid": "652e3773cdb4721b92156cac"
+  },
+  "brand": "Kronägg",
+  "category": "Mejeri",
+  "description": "ÄGG FRÅN FRIGÅENDE HÖNS INOMHUS. De frigående hönsen rör sig fritt inomhus i stallar med strö på golvet, sittpinnar i olika höjder och värpreden. Hönorna äter ett väl sammansatt vegetabiliskt foder där fodersäd utgör en naturlig grund.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310060004348_c1l1.jpeg.jpg",
+  "price": 5.7,
+  "quantity": 0,
+  "title": "Ägg Frigående 6-p M 348g",
+  "unit": "6 st"
+},
+{
+  "_id": {
+    "$oid": "652e6403c5aa7bed9722e36c"
+  },
+  "brand": "Kelda",
+  "category": "Mejeri",
+  "description": "Kelda® Matlagningsgrädde 15% är en kokbar grädde med lägre fetthalt och lång hållbarhet och därför perfekt att ha på lut i kylen till vardagsmatlagningen. Matlagningsgrädde har en mild, gräddig smak och passar utmärkt till lite kryddigare rätter. En matgrädde som du med fördel kan använda i såser, soppor och grytor. Kan behöva redas, speciellt om syrliga ingredienser ingår i din matlagning.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310865066732_d1n1.jpg",
+  "price": 15,
+  "quantity": 98,
+  "title": "Matlagningsgrädde 15%",
+  "unit": "2.5 dl"
+},
+{
+  "_id": {
+    "$oid": "652e6dcf82f69316265b1a59"
+  },
+  "brand": "Svenskt ursprung",
+  "category": "Mejeri",
+  "description": "Arla Köket® riven ost Texmex lyfter smakerna i kryddiga rätter. Osten har lite mer karaktär och är en blandning av de svenska ostarna Herrgård® och Kvibille® Cheddar. Den färdigrivna osten passar utmärkt i allt från tacos till grytor och soppor, omelett och tortilla. Ett gott tips är att ha den rivna texmex-osten till heta kycklingtacos med klassiska tillbehör. Symbolen med den blågula mjölkkannan garanterar 100 procent svensk mjölk.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07311877015121_d1n1.jpg",
+  "price": 24.75,
+  "quantity": 50,
+  "title": "Riven Ost Texmex 29%",
+  "unit": "150 g"
+},
+{
+  "_id": {
+    "$oid": "652e6df63aec94c5c9ed6a3d"
+  },
+  "brand": "Loviseberg Råsaft",
+  "category": "Dryck",
+  "description": "RÅSAFT är en kallpressad juice som inte är pastöriserad. RÅSAFT pressas i Sverige av färska frukter och grönsaker. Den är rik på fibrer och vitaminer. Förvara den kallt och skaka ordentligt för bästa njutning.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07350068170096_2.jpg",
+  "price": 46.95,
+  "quantity": 400,
+  "title": "Råsaft Äpple, Ananas, Spenat & Citron",
+  "unit": "700 ml"
+},
+{
+  "_id": {
+    "$oid": "652e6e1a3aec94c5c9ed6a3e"
+  },
+  "brand": "Active Care",
+  "category": "Apotek",
+  "description": "Active Care med Vitamin D är en vitamin som bildas i huden när man vistas i solen. I Norden är solen inte tillräckligt stark under vinterhalvåret och då är det viktigt att vi får i oss vitamin D via kosten, t.ex. från fet fisk. Vitamin D bidrar till immunsystemets normala funktion samt bidrar till att bibehålla normal benstomme och normala tänder.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/05702071388951_c1n1.jpg",
+  "price": 20,
+  "quantity": 2,
+  "title": "Vitamintillskott Vitamin D Tuggtabletter 90-p",
+  "unit": "90 st"
+},
+{
+  "_id": {
+    "$oid": "652e6e3b82f69316265b1a5b"
+  },
+  "brand": "",
+  "category": "Grönsaker",
+  "description": "Romansallad är en sallatssort med kraftig smak och stora krispiga blad. Den klassiska Caesar-salladen görs på romansallat.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/romansallad-klass1-2.jpg",
+  "price": 0.4,
+  "quantity": 3,
+  "title": "Romansallad Klass1",
+  "unit": "180 g"
+},
+{
+  "_id": {
+    "$oid": "652e6e5c82f69316265b1a5c"
+  },
+  "brand": "",
+  "category": "Skafferi",
+  "description": "Marabou Apelsinkrokant är en Marabou Mjölkchokladkaka med apelsinsmak och krispiga bitar av mandelkrokant. En riktig klassiker som passar för alla tillfällen. Genom Cocoa Life, vårt program för en hållbar kakaoproduktion, bidrar Toblerone till att kakao odlas på rätt sätt, för att skydda planeten och respektera mänskliga rättigheter i vår värdekedja.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07310510001231_2.jpg",
+  "price": 22.95,
+  "quantity": 150,
+  "title": "Chokladkaka Apelsinkrokant",
+  "unit": "200g"
+},
+{
+  "_id": {
+    "$oid": "652e6efd82f69316265b1a5d"
+  },
+  "brand": "Oatly",
+  "category": "Mejeri",
+  "description": "Havredryck att ha i kaffet och som går utmärkt att skumma. Oatly har tagit fram denna dryck för alla baristas där ute.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07394376616037_c1r1.jpg",
+  "price": 23.95,
+  "quantity": 20,
+  "title": "iKaffe 3%",
+  "unit": "1 l"
+},
+{
+  "_id": {
+    "$oid": "652f9349b0bca5f54f0e6ac2"
+  },
+  "brand": "Sensodyne",
+  "category": "Apotek",
+  "description": "Sensodyne Original är en tandkräm som ger ett 24-timmars skydd mot ilningar i tänderna. Sensodyne Original avlägsnar plack vid regelbunden borstning och innehåller fluor som förebygger karies. Sensodyne Original är skonsam mot tänderna och har en frisk smak av pepparmint.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/08710464116446_5.jpg",
+  "price": 28.95,
+  "quantity": 250,
+  "title": "Tandkräm Original Fluor",
+  "unit": "75 ml"
+},
+{
+  "_id": {
+    "$oid": "652f9350b0bca5f54f0e6ac3"
+  },
+  "brand": "Svenskt ursprung",
+  "category": "Bageri",
+  "description": "Lantbröd Havssalt är ett ljust osötat bröd, bakat med surdeg och en gnutta havssalt. Gott att rosta till frukost, servera till en mustig soppa eller matig sallad. Frukost, utflykt, mellanmål eller nattmat spelar ingen roll. Fazers Lantbröd är alltid lika gott. Vi har gjort påsen mindre för att minska plasten och minimerat dekoren för att minska färgåtgången. Läs mer om vårt miljöarbete på www.skogaholm.se Vi bakar brödet. Du gör stunden.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07314873525014_d1l1.jpg",
+  "price": 35.95,
+  "quantity": 420,
+  "title": "Lantbröd Havssalt ",
+  "unit": "600 g"
+},
+{
+  "_id": {
+    "$oid": "652f94d2949b93f6f8348f4a"
+  },
+  "brand": "Korvbröds bagarn",
+  "category": "Bageri",
+  "description": "Korvbröd 8-pack är ett typiskt klassiskt ljust korvbröd men i ett lite större format - 40 gram. Brödet passar lika bra till att göra goda portioner med en vanlig klassisk korv som med en härliga premium korv men även till pulled pork, kyckling, lax etc och är också en perfekt bärare av vegetariska portioner. Som alla andra bröd från Korvbrödsbagarn är det mjölkfritt och bakat utan konserveringsmedel och består enbart av vegetabiliska ingredienser.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07311372193249_c1n1.jpg",
+  "price": 36.95,
+  "quantity": 30,
+  "title": "Lite Större Korvbröd 8-p",
+  "unit": "320 g"
+},
+{
+  "_id": {
+    "$oid": "652f9728b0a38215d0d3f877"
+  },
+  "brand": "",
+  "category": "Skafferi",
+  "description": "Socker, glukossirap, kakaosmör, HELMJÖLKSPULVER, kakaomassa, SKUMMJÖLKSPULVER, palmfett, glukos-fruktossirap, VETEMJÖL, VASSLEPULVER (MJÖLK), SMÖROLJA, SMÖRFETT, VASSLE (MJÖLK), risstärkelse, dextros, emulgeringsmedel (E 435, lecitiner (solros, SOJA), syra (E330, E296), fuktighetsbevarande medel (E420), färgämnen (E100, E162, E160c, E160a, E163, E141, E101, E120, E153, E150), modifierad stärkelse, surhetsreglerande medel (E330, E332, E500), antioxidationsmedel (E307, E300), MALTODEXTRIN, klumpförebyggande medel (E470b, E471), majsstärkelse, förtjockningsmedel (E414), ytbehandlingsmedel (E903, E901), fettreducerat kakaopulver, aromer, naturliga aromer, fettreducerat kakaopulver, gelatin, salt, bakpulver (E500), VASSLEPRODUKT (MJÖLK), svart morotsjuice. Kan innehålla spår av TRÄDNÖTTER Halloweenmynt och små chokladögon innehåller minst 28% kakao.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/07350101194010_1.jpg",
+  "price": 22,
+  "quantity": 40,
+  "title": "Favoritmix Halloween",
+  "unit": "140 g"
+},
+{
+  "_id": {
+    "$oid": "652f98f0ee74c5ab10e42c79"
+  },
+  "brand": "",
+  "category": "Skafferi",
+  "description": "Gravljus med lång brinntid och behållare i glas. Lyktan kan ställas direkt vid graven - känns personlig och lämnar ett fint budskap i form av ett hjärta. Brinner med klar och vacker låga i ca 4 dygn. Endast för utomhusbruk.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/gravlykta-hjarta-glas-80-timmar-bolsius.jpg",
+  "price": 35.96,
+  "quantity": 29,
+  "title": "Gravljus Hjärta 80H",
+  "unit": "1st"
+},
+{
+  "_id": {
+    "$oid": "652fd10b4d16a58d9a9b8ba9"
+  },
+  "brand": "",
+  "category": "Katt",
+  "description": "En fin katt",
+  "imageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGfpQ3m-QWiXgCBJJbrcUFdNdWAhj7rcUqjeNUC6eKcXZDAtWm",
+  "price": 1000000000,
+  "quantity": 1,
+  "title": "katt",
+  "unit": "1"
+},
+{
+  "_id": {
+    "$oid": "652fd13d4d16a58d9a9b8bab"
+  },
+  "brand": "",
+  "category": "Godis",
+  "description": "De små favoriterna med fruktsmak.",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/05996379193724_c1n1.jpeg.jpg",
+  "price": 30.95,
+  "quantity": 20,
+  "title": "nappar frukt",
+  "unit": "80g"
+},
+{
+  "_id": {
+    "$oid": "652fd45bded34c598c6fe4f1"
+  },
+  "brand": "Spanien",
+  "category": "Grönsaker",
+  "description": "Butternutpumpa är en pumpaväxt som ser ut som ett stort päron.\nDen har en fast konsistens och ett knallorange, köttigt inre som lämpar sig väl för matlagning. Smaken är söt och nötaktig. Populär hos gourmetkockar.\n\nEn av de populäraste pumporna! Säljs året runt",
+  "imageUrl": "https://static.mathem.se/shared/images/products/large/butternutpumpa-klass1.jpg",
+  "price": 35,
+  "quantity": 0,
+  "title": "pumpa butternut klass1",
+  "unit": "700 g"
 }]
