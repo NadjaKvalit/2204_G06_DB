@@ -66,37 +66,13 @@
 },
 {
   "_id": {
-    "$oid": "652fd0174d16a58d9a9b8ba3"
+    "$oid": "6533e23b901285d9e8e5b7d9"
   },
-  "name": "Katt"
+  "name": "Kryddor"
 },
 {
   "_id": {
-    "$oid": "652fd01e4d16a58d9a9b8ba4"
-  },
-  "name": "Frukt och grönt"
-},
-{
-  "_id": {
-    "$oid": "652fd03b4d16a58d9a9b8ba5"
-  },
-  "name": "New"
-},
-{
-  "_id": {
-    "$oid": "652fd0a24d16a58d9a9b8ba6"
-  },
-  "name": "New2"
-},
-{
-  "_id": {
-    "$oid": "652fd0b04d16a58d9a9b8ba7"
+    "$oid": "6537a8f7c8aef78fb58eeb69"
   },
   "name": "Godis"
-},
-{
-  "_id": {
-    "$oid": "652fd0cc4d16a58d9a9b8ba8"
-  },
-  "name": "Glass"
 }]
